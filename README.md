@@ -2,7 +2,6 @@
 This is the Stony Brook University Physics Graduate Student Association website 
 (created by [Sabina Sagynbayeva](https://github.com/ssagynbayeva)). 
 [![Website](https://img.shields.io/badge/visit-website-blue.svg)](https://ssagynbayeva.github.io/pgsa/)
-[![PGSA Wiki](https://img.shields.io/badge/visit-website-orange.svg)](http://grad08.physics.sunysb.edu/wiki/Main_Page)
 
 <!-- A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
